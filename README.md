@@ -74,7 +74,7 @@ hs.hotkey.bind({ "ctrl", "alt", "cmd", "shift" }, "D", handleDesktopToggle)
 
 
 
-🧩 Code Overview
+🧩 Code Overview ( copy past the following - works with hyperkey+D)
 
 
 -- Stores all minimized windows
